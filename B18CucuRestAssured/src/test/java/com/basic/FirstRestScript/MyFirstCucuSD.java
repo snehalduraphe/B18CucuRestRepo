@@ -1,7 +1,6 @@
 package com.basic.FirstRestScript;
 
-import org.testng.Assert;
-
+import org.junit.Assert;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import io.restassured.RestAssured;
